@@ -1,0 +1,5 @@
+{
+  "name": "Digi-Pet Evolver",
+  "description": "A retro-themed virtual pet game where you have 30 seconds to care for a creature. Its stats decay over time, and your actions determine its final evolution. Will you get a dragon, a ghost, or something else entirely?",
+  "requestFramePermissions": []
+}
